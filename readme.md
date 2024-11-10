@@ -1,4 +1,4 @@
-# This repository is to store all the script that possibly used by my employeer company (which I don't want to disclose).
+# This repository is to store all the script that possibly used by my employeer company.
 ### This script is suitable to run when screen size is set to 100%
 
 Follwoing are the steps involved to run this script:
